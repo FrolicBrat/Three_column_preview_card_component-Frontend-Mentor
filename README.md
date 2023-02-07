@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./design/desktop-preview.jpg)
-![Mobile](./design/mobile-design.jpg)
+![Desktop](https://github.com/FrolicBrat/Three_column_preview_card_component-Frontend-Mentor/blob/c4d82bcdeef4af97b2abb6df817096d9655542cf/design/desktop-preview.jpg)
+![Mobile](https://github.com/FrolicBrat/Three_column_preview_card_component-Frontend-Mentor/blob/c4d82bcdeef4af97b2abb6df817096d9655542cf/design/mobile-design.jpg)
 
 ### Links
 
